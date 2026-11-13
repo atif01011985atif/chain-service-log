@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chain Service Log</string>
+
+    <string name="splash_title_top">CHAIN SERVICE</string>
+    <string name="splash_title_bottom">LOG</string>
+    <string name="splash_subtitle">GARAGE LOGBOOK FOR YOUR BIKES</string>
+    <string name="splash_progress">CHECKING THE RACK</string>
+
+    <string name="menu_title">RACK</string>
+    <string name="menu_hint">PICK A BIKE OR START A NEW LOG</string>
+    <string name="start_logging">START LOGGING</string>
+    <string name="add_bike">ADD BIKE</string>
+    <string name="label_bikes">BIKES</string>
+    <string name="label_due">DUE</string>
+    <string name="label_distance_logged">LOGGED</string>
+    <string name="label_services">SERVICES</string>
+    <string name="label_spent">SPENT</string>
+    <string name="section_your_bikes">YOUR BIKES</string>
+    <string name="empty_rack">NO BIKES ON THE RACK</string>
+    <string name="history">HISTORY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="rack_nearest">%1$s · %2$s %3$s LEFT</string>
+    <string name="rack_no_parts">NO PARTS INSTALLED</string>
+
+    <string name="unit_km">KM</string>
+    <string name="unit_mi">MI</string>
+
+    <string name="game_section_components">INSTALLED COMPONENTS</string>
+    <string name="game_empty_components">NO COMPONENTS INSTALLED</string>
+    <string name="install_part">INSTALL PART</string>
+    <string name="log_service">LOG SERVICE</string>
+    <string name="update_odometer">UPDATE ODOMETER</string>
+    <string name="manage_parts">MANAGE PARTS</string>
+    <string name="update">UPDATE</string>
+    <string name="since_last_service">SINCE SERVICE</string>
+    <string name="parts">PARTS</string>
+    <string name="next_due">NEXT DUE</string>
+    <string name="section_recent_service">RECENT SERVICE</string>
+    <string name="record_headline">%1$s · %2$s</string>
+
+    <string name="state_ok">OK</string>
+    <string name="state_soon">SOON</string>
+    <string name="state_due">DUE</string>
+    <string name="wear_progress">%1$s / %2$s %3$s</string>
+    <string name="wear_left">%1$s %2$s LEFT</string>
+    <string name="wear_state_description">%1$d percent worn</string>
+
+    <string name="odometer_title">ODOMETER</string>
+    <string name="odometer_previous">PREVIOUS %1$s %2$s</string>
+    <string name="odometer_delta">PLUS %1$s %2$s</string>
+    <string name="odometer_invalid">MUST BE ABOVE PREVIOUS</string>
+    <string name="save_odometer">SAVE ODOMETER</string>
+    <string name="key_clear">C</string>
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+
+    <string name="section_component">COMPONENT</string>
+    <string name="section_work_done">WORK DONE</string>
+    <string name="section_odometer_at_service">ODOMETER AT SERVICE</string>
+    <string name="field_odometer_edit">EDIT ODOMETER</string>
+    <string name="section_note">NOTE</string>
+    <string name="note_placeholder">WHAT DID YOU DO?</string>
+    <string name="cost_label">COST FOR MY RECORDS</string>
+    <string name="cost_caption">NOT A PAYMENT · STORED ON THIS DEVICE</string>
+    <string name="service_hint">CHECK THE PART AND THE READING BEFORE SAVING</string>
+    <string name="save_service">SAVE SERVICE</string>
+
+    <string name="action_lubed">LUBED</string>
+    <string name="action_cleaned">CLEANED</string>
+    <string name="action_replaced">REPLACED</string>
+    <string name="action_adjusted">ADJUSTED</string>
+    <string name="action_inspected">INSPECTED</string>
+    <string name="action_retired">RETIRED</string>
+
+    <string name="result_headline">SERVICE LOGGED</string>
+    <string name="result_hint">KEEP THE LOG CURRENT AFTER EVERY RIDE</string>
+    <string name="result_at_odometer">AT ODOMETER</string>
+    <string name="result_total_services">TOTAL</string>
+    <string name="result_this_bike">THIS BIKE</string>
+    <string name="log_again">LOG AGAIN</string>
+    <string name="back_to_bike">BACK TO BIKE</string>
+    <string name="menu">MENU</string>
+
+    <string name="history_title">SERVICE HISTORY</string>
+    <string name="filter_all">ALL BIKES</string>
+    <string name="history_empty">NO SERVICE LOGGED YET</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="section_units">UNITS</string>
+    <string name="units_km">KILOMETERS</string>
+    <string name="units_mi">MILES</string>
+    <string name="section_accent">ACCENT</string>
+    <string name="accent_orange">SIGNAL ORANGE</string>
+    <string name="accent_lime">LIME</string>
+    <string name="section_backup">LOCAL BACKUP</string>
+    <string name="export_text">EXPORT TEXT</string>
+    <string name="restore_text">RESTORE TEXT</string>
+    <string name="section_spares">SPARE PARTS BOX</string>
+    <string name="add_spare">ADD SPARE</string>
+    <string name="clear_all">CLEAR ALL DATA</string>
+    <string name="clear_data_title">CLEAR ALL DATA?</string>
+    <string name="clear_data_body">Every bike, part and service record stored on this device will be removed.</string>
+    <string name="spare_count_description">%1$s, %2$d in the box</string>
+    <string name="default_spare_name">SPARE PART</string>
+
+    <string name="backup_title">LOCAL SNAPSHOT</string>
+    <string name="backup_hint">SELECT AND COPY THIS TEXT TO KEEP A BACKUP</string>
+    <string name="restore_hint">PASTE A SNAPSHOT AND RESTORE</string>
+    <string name="restore_failed">SNAPSHOT NOT RECOGNISED</string>
+
+    <string name="dialog_add_bike">ADD BIKE</string>
+    <string name="field_bike_name">BIKE NAME</string>
+    <string name="field_frame">FRAME TYPE</string>
+    <string name="field_start_odometer">STARTING ODOMETER %1$s</string>
+    <string name="default_bike_name">NEW BIKE</string>
+    <string name="dialog_component_editor">MANAGE PARTS</string>
+    <string name="field_part_name">PART NAME</string>
+    <string name="field_part_type">PART TYPE</string>
+    <string name="field_wear_limit">WEAR LIMIT %1$s</string>
+    <string name="field_start_distance">START DISTANCE %1$s</string>
+    <string name="install">INSTALL</string>
+    <string name="cancel">CANCEL</string>
+    <string name="close">CLOSE</string>
+    <string name="restore">RESTORE</string>
+
+    <string name="frame_road">ROAD</string>
+    <string name="frame_gravel">GRAVEL</string>
+    <string name="frame_mtb">MTB</string>
+    <string name="frame_city">CITY</string>
+    <string name="frame_ebike">E-BIKE</string>
+
+    <string name="type_chain">CHAIN</string>
+    <string name="type_tyre">TYRE</string>
+    <string name="type_brake">BRAKES</string>
+    <string name="type_cable">CABLE</string>
+    <string name="type_other">OTHER</string>
+
+    <string name="cd_logo">Chain Service Log emblem</string>
+    <string name="cd_rack_icon">Bike rack</string>
+    <string name="cd_parts_icon">Manage parts</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_backspace">Delete last digit</string>
+    <string name="cd_wrench">Service wrench</string>
+    <string name="cd_increase">Add one</string>
+    <string name="cd_decrease">Remove one</string>
+    <string name="cd_component_sprite">%1$s part</string>
+    <string name="cd_bike_badge">%1$s badge</string>
+</resources>
